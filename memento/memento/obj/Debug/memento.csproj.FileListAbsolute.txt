@@ -1,0 +1,7 @@
+C:\Users\naima\source\repos\memento\memento\obj\Debug\memento.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\memento\memento\obj\Debug\memento.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\memento\memento\bin\Debug\memento.exe.config
+C:\Users\naima\source\repos\memento\memento\bin\Debug\memento.exe
+C:\Users\naima\source\repos\memento\memento\bin\Debug\memento.pdb
+C:\Users\naima\source\repos\memento\memento\obj\Debug\memento.exe
+C:\Users\naima\source\repos\memento\memento\obj\Debug\memento.pdb
